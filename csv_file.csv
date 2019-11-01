@@ -1,5 +1,5 @@
-name,age,gender
-Sarin,24,M
-Lily,23,F
-Paul,30,M
-Matt,27,M
+name,age,gender,salary
+Sarin,24,M,2000
+Lily,23,F,3000
+Paul,30,M,4000
+Matt,27,M,5000
